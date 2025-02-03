@@ -1,0 +1,14 @@
+{
+  "name": "jewelry_shopping_website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install-all": "npm install --prefix client && npm install --prefix server",
+    "start-all": "concurrently \"npm run dev --prefix client\" \"npm start --prefix server\"",
+    "app": "npm run install-all && npm run start-all"
+  },
+  "author": "",
+  "license": "ISC"
+}
