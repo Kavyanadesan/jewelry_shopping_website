@@ -10,5 +10,8 @@
     "app": "npm run install-all && npm run start-all"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^9.1.2"
+  }
 }

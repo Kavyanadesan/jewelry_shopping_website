@@ -1,4 +1,5 @@
 import p_img1 from "./p_img1.png";
+import p_img2 from "./p_img2.png";
 import p_img2_1 from "./p_img2_1.png";
 import p_img2_2 from "./p_img2_2.png";
 import p_img2_3 from "./p_img2_3.png";
@@ -97,10 +98,10 @@ export const assets = {
 export const products = [
   {
     _id: "aaaaa",
-    name: "Women Round Neck Cotton Top",
+    name: "Gold Earring",
     description:
       "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
-    price: 100,
+    price: 15000,
     image: [p_img1],
     category: "Women",
     subCategory: "Topwear",
@@ -110,11 +111,11 @@ export const products = [
   },
   {
     _id: "aaaab",
-    name: "Men Round Neck Pure Cotton T-shirt",
+    name: "Gold Necklace",
     description:
       "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
-    price: 200,
-    image: [p_img2_1, p_img2_2, p_img2_3, p_img2_4],
+    price: 25000,
+    image: [p_img2],
     category: "Men",
     subCategory: "Topwear",
     sizes: ["M", "L", "XL"],
@@ -123,10 +124,10 @@ export const products = [
   },
   {
     _id: "aaaac",
-    name: "Girls Round Neck Cotton Top",
+    name: "Gold Bangle",
     description:
       "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
-    price: 220,
+    price: 30000,
     image: [p_img3],
     category: "Kids",
     subCategory: "Topwear",
@@ -136,10 +137,10 @@ export const products = [
   },
   {
     _id: "aaaad",
-    name: "Men Round Neck Pure Cotton T-shirt",
+    name: "Diamond Earring",
     description:
       "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
-    price: 110,
+    price: 60000,
     image: [p_img4],
     category: "Men",
     subCategory: "Topwear",
@@ -149,10 +150,10 @@ export const products = [
   },
   {
     _id: "aaaae",
-    name: "Women Round Neck Cotton Top",
+    name: "Diamond Ring",
     description:
       "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
-    price: 130,
+    price: 50000,
     image: [p_img5],
     category: "Women",
     subCategory: "Topwear",
@@ -162,10 +163,10 @@ export const products = [
   },
   {
     _id: "aaaaf",
-    name: "Girls Round Neck Cotton Top",
+    name: "Diamond Ring",
     description:
       "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
-    price: 140,
+    price: 50000,
     image: [p_img6],
     category: "Kids",
     subCategory: "Topwear",
@@ -175,10 +176,10 @@ export const products = [
   },
   {
     _id: "aaaag",
-    name: "Men Tapered Fit Flat-Front Trousers",
+    name: "Gold Earring",
     description:
       "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
-    price: 190,
+    price: 20000,
     image: [p_img7],
     category: "Men",
     subCategory: "Bottomwear",
@@ -188,10 +189,10 @@ export const products = [
   },
   {
     _id: "aaaah",
-    name: "Men Round Neck Pure Cotton T-shirt",
+    name: "Diamond Necklace",
     description:
       "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
-    price: 140,
+    price: 100000,
     image: [p_img8],
     category: "Men",
     subCategory: "Topwear",
@@ -201,10 +202,10 @@ export const products = [
   },
   {
     _id: "aaaai",
-    name: "Girls Round Neck Cotton Top",
+    name: "Diamond Braclet",
     description:
       "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
-    price: 100,
+    price: 50000,
     image: [p_img9],
     category: "Kids",
     subCategory: "Topwear",
